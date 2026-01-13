@@ -1,0 +1,14 @@
+C:\Users\jabes\source\repos\TheCoin\TheCoin\bin\Debug\net8.0\TheCoin.exe
+C:\Users\jabes\source\repos\TheCoin\TheCoin\bin\Debug\net8.0\TheCoin.deps.json
+C:\Users\jabes\source\repos\TheCoin\TheCoin\bin\Debug\net8.0\TheCoin.runtimeconfig.json
+C:\Users\jabes\source\repos\TheCoin\TheCoin\bin\Debug\net8.0\TheCoin.dll
+C:\Users\jabes\source\repos\TheCoin\TheCoin\bin\Debug\net8.0\TheCoin.pdb
+C:\Users\jabes\source\repos\TheCoin\TheCoin\obj\Debug\net8.0\TheCoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jabes\source\repos\TheCoin\TheCoin\obj\Debug\net8.0\TheCoin.AssemblyInfoInputs.cache
+C:\Users\jabes\source\repos\TheCoin\TheCoin\obj\Debug\net8.0\TheCoin.AssemblyInfo.cs
+C:\Users\jabes\source\repos\TheCoin\TheCoin\obj\Debug\net8.0\TheCoin.csproj.CoreCompileInputs.cache
+C:\Users\jabes\source\repos\TheCoin\TheCoin\obj\Debug\net8.0\TheCoin.dll
+C:\Users\jabes\source\repos\TheCoin\TheCoin\obj\Debug\net8.0\refint\TheCoin.dll
+C:\Users\jabes\source\repos\TheCoin\TheCoin\obj\Debug\net8.0\TheCoin.pdb
+C:\Users\jabes\source\repos\TheCoin\TheCoin\obj\Debug\net8.0\TheCoin.genruntimeconfig.cache
+C:\Users\jabes\source\repos\TheCoin\TheCoin\obj\Debug\net8.0\ref\TheCoin.dll
