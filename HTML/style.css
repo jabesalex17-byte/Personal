@@ -1,0 +1,66 @@
+/* lo primero es el selector poner p  duspues las llaves  */
+p{
+    /* la propiedad que vamos a modificar y el valor que le ponemos  */
+    color: red;
+}
+
+/* SELECTORES */
+/* Es la forma de seleccionar uno o mas elementos */
+
+/* esto es para las clases le pones una clase a etiquetas y para llamar a esa clase para modificarla le pones sasi  con un punto primero */
+.negro{
+    color: rgb(255, 0, 0);
+}
+
+/* selector por id es para un solo elemento los id son unicos  */
+
+#no{
+    color: blue;
+}
+
+/* fuentes y tamano  */
+.prueba{
+    /* color del texto */
+    color: rgb(77, 160, 160);
+    /* la tipografia  (si tieene 2 palabras separadas con un espacio lo haces con ''*/
+    /* puedes poner coma como esta aqui y tomara la primera pero si por algun motivo no se puede poner esa se pongra la siguiente y as */
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /* adivinaste el tamano de las letras */
+    font-size: 27px;
+    /* negrita(bold = 700)(bolder es una escala mas de grosor) pero es el grosor de la  letra depende de la tipografia (100 - 900)*/
+    font-weight: 900;
+    /*  italic cursva normal es normal y oblique es un punto medio y algunos navegadores en obliquie te deja poner el grado de inclinacion */
+    font-style: italic;
+    /* de deracha a izquierda y la revez y asi center pues lo centra maestro no hay que hacer mucho mas  justify es para que este parejo que todas las lineas terminen ygual lo del cuadrado en word ( todas las lineas termian igual*/
+    /* stard (es para que dependiendo de donde este ejemplo en latan es de izquiera a derecha verdad pero en arrabia es al revez por ende lo que hace estar es lo pone de la forma en la que lo haces segun donde estas) end( es una stard pero al revez lo mismo pero que lo pone al revez de donde escribes normalmente)*/
+    text-align: center;
+    /* underline lo que hace es que le pone como si fuera un enlace una linea avajo  overline la pone arriva  y line-throught lo tacha */
+    /* se pueden mesclara */
+    /* y none es para que no tenga como por ejemplo en los links */
+    text-decoration: underline;
+    /* esparcio entre linia y linia */
+    line-height: 1;
+    /* espacio de letras */
+    letter-spacing: 3px;
+    /* transforma por ejemplo en uppercase lo pone en mayusculas y lowercase es para minusculas */
+    /* capitalize es para que la primera letra de cada palabra este en mayusculas */
+    text-transform: uppercase;
+
+}
+.linkprueba{
+    /*  */
+    text-decoration: none;
+}
+
+
+/* TIPOGRAFIA EXTERNAS */
+/* en google fonts te da el codigo a pegar en el head y aqui pero es el head y pones esa linia y ya */
+/* la otra forma es tu poner en un archivo.css crear la tipografia descargarla de algun lugar y definilar y ponerle el formato (ejemplo en tipografias.css) y pues usarla */
+
+/* ( si quieres como dijimos con las weight ponerle una para cada una pues la creas varias veces y ya esta */
+.google{
+  /* font-family: jabes;
+  font-weight: 900; */
+  font-family: "Pixelify Sans", sans-serif;
+}
+

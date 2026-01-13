@@ -1,0 +1,6 @@
+/* aqui la creamos y la linkeamos a nuetra archivo */
+@font-face {
+    font-family: "jabes";
+    src: url("Alfa_Slab_One/AlfaSlabOne-Regular.ttf") format("truetype");
+    font-weight: 900;
+}

@@ -1,0 +1,106 @@
+div{
+    /* el fondo de la caja */
+    background:red;
+    /* el ancho de la caja (eje x) */
+    width: 100%; /*  en caso de hacerlo por porsentaje se ajusta a la pantalla */
+    /* la altura de la caja (eje y) */
+    height: 100%;
+}
+
+
+/* si el imput pro ejemplo es respectivo a su form  
+osea que es respectiva las cosas a los que se contiene que hay un orden gerearquico 
+nose dale mente*/
+
+form{
+    width: 200px;
+}
+
+button{
+    text-align: center;
+    width: 70%;
+}
+
+.otro{
+    background-color: blue;
+    /* lo separa de los vordes del contenido */
+    padding: 10px;
+    /* esto lo hace especificamente de arriba */
+    padding-top: 2px;
+    /* especificamente de la izquiera */
+    padding-left: 2px;
+    /* lo separa espefificametne de la derecha */
+    padding-right: 2px;
+    /* lo serapara especificamente de abajo */
+    padding-bottom: 3px;
+    /* otra forma de ponerlo es de la siguietne masrea en sentido orario */
+    /* primero arirba despues a las derecha y despues de bajo y por ultimo a la izquierda */
+    padding: 2px 4px 6px 22px;
+    /* si ponemos 2 valores se define el de vertica y el orizontal */
+    padding:  29px 49px;
+}
+
+.input{
+    /* MARGIN lo que hace esque se sepraen los elementos de otros */
+    margin: 23px;
+    /* lo separa e los bordes */
+    padding: 2%;
+}
+.caja{
+    background-color: aqua;
+    height: 50px;
+    width: 50px;
+    /* MARGIN lo que hace esque se sepraen los elementos de otros */
+    margin: 10px;
+}
+.borde{
+    background-color: blueviolet;
+    height: 50px;
+    width: 150px;
+    /* centra el contenido de manera orisontal */
+    margin: auto;
+    /* redondea los bordes */
+    /* si redondeamos con porsentaje no lo hace de las esquina sino por todo el elemeneto */
+    border-radius: 34px;
+    /* border color el color */
+    /* tambien se puede poner trasparente  */
+    border-color: aqua;  
+    /* el tamano */
+    border-width: 10px;
+    /* el estilo */
+    border-style: solid;
+    /* (se necesitan los ultimos 3 para que se pueda ver) */
+
+
+    /* se peude poner todo junto en un alinea */
+    /* tamano estilo y color  */
+    border: 3px solid black;
+
+    /* esta es otra forma de hacerlo opr partes  */
+    /* border-bottom: 0cap;
+    border-top: 0cap;
+    border-left: 0cap;
+    border-right: 0cap; */
+
+    /* asi mismo se puede modificar por ejemplo  */
+    /* border-bottom-style: 5px solid blue; */
+
+    /* tambien se puede modificar el border radios */
+    border-bottom-left-radius: 343px;
+    /* en sentido de las agujas del relog  */
+    border-radius: 23px 43px 543px 5px;
+
+}
+
+
+input {
+  margin: 5px;
+  padding: 6px 9px;
+  border: none;
+  border-bottom: 1px solid rgb(90, 30, 23);
+  background: transparent;
+  color: rgb(84, 84, 112);
+  border-radius: 5px;
+}
+
+

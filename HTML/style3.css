@@ -1,0 +1,54 @@
+/* box-sizing: border_-box  lo que hace esque le dice basicamente que aunque le ponga borde margen y todo deve medir 100 pixeles en total */
+/* en la caja 1 le digo que mida 50 pero poninedole margen y muhos diparate mas deja de medir 50 pues para eso es que se usa  */
+
+/* lo que estavamos haciendo basicamente es que solo el contenido mida 50 pero con eso hace que todo mide eso */
+.caja1{ 
+    width: 50px;
+    height: 50px;
+    background-color: aqua;
+    margin: 10px;
+    border: 2px solid black;
+    padding: 50px;
+}
+
+.caja2{
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+    box-sizing: border-box;
+    padding: 25px;
+    border: 2px solid black;
+}
+
+/* hay 3 formas para esto */
+/* rgb dese usan los colores primarios rojo verde azul   de 0 a 255 que pasa pues de pone la cnatidad de cada cosa que se va a poner  */
+/* hay paginas para ver todo esto  se pone en dos digintos*/
+/* todos iguales es un gris */
+.color{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(255, 67, 250);
+    /* esta es la forma ezadecimal es casi lo misom pero ahora hasta 9 y a b c d e f  */
+    /* el primer valor lo que hace es elegir entre 16 valores y el segudo una sub elecion de los 16 */
+    /* si pones 3 lo que hace se que no haces la subtrama y solo pones el principal  hay otra capa que es la opacidad*/
+    background-color: #aa99bb;
+    /* esto es para usar una reda que es por grados saturacion y asi */
+    background-color: hsl(45, 34%, 56%);
+    padding: 10px;
+    margin: 10px;
+}
+/* bueno las unidades de medidas son los px es una de ellas */
+/* para medidas que seran inpresas usamos medidas reales como cm pulgadas etc  porque dependiendo del dispocitivo un px es diferente*/
+/* las unidades relattivas dependen de otros como los % es respecto a su contenedor */
+/* con letras solo funciona si la caja original tiene un font size o su ttamano */
+/* em y los ren in em es la cantida que tinee el padre ejemplo si en el div dice font size 30px y el p le pongo 1em pues sera a 30px y si le pongo 2 em pus sera el doble*/
+/* el rem es lo mismo que el elemento razi como html va a ir subiendo de generacion en generacion hazta encontrar algo a lo cual referirse si no es el div el el body sino el html
+si no encuentra nada se va al del navegador */
+/* 50vh y 50vw es pues para el height y para el width es la midad de lo que mide la ventana lo que tenga disponible */
+.ministro {
+    background-color: rgb(214, 207, 197);
+    padding: 23px;
+    margin: 23px;
+    font-family: 'Courier New', Courier, monospace;
+    border-left: 10px solid rgb(160, 150, 150);
+}

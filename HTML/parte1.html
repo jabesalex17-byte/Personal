@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+  <!-- bueno este es el encabesado (si pones el mouse encima de cua etiqueta te dice una descripcion) -->
+  <head>
+    <!-- bueno el titulo maestro no hay mucho que de cir  que aparace arriba una laventana-->
+    <title>Este es el titulo de nuestr (descripcion de la pagina)</title> 
+    <!-- esto es para linkear un archivo de css al archivo html -->
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap" rel="stylesheet">
+<link href="tipografias.css"
+  </head>
+
+  <!-- este es el cuerpo maestro de la pagina  -->
+  <body>
+    <!-- esto es un para for de toda la vida  -->
+    <h1>
+      tituro existen 6 1 el mas grnzde y el 6 el mas chiqui y asi mismo su prioridd 
+    </h1>
+    <h1>1</h1> <!-- lo recomendable es usar 1 h1 -->
+    <h2>2</h2>
+    <h3>3</h3>
+    <h4>4</h4>
+    <h5>5</h5>
+    <h6>6</h6>
+
+    <p class="prueba"> texto de prueba para css </p>
+    <p class="google">texto de prueba tipografia externa</p>
+    <a href="https://www.youtube.com/" class="linkprueba"> link de prueba</a>
+
+    <!-- un parrafo de toda la vida0 -->
+    <p>
+      estio es un parrafo de toda la vina ministro
+    </p>
+    <!-- una lista ordenada normalmanet usada para los menu -->
+    <ol>
+      <li class="negro">algo</li>
+      <li id="no">ya tu sabes</li>
+      <li> ya sabes como es una lisa</li>
+    </ol>
+    <!-- buena una lista no ordenada no hay mucho que decir  -->
+    <ul>
+      <li>algo</li>
+      <li> nose que</li>
+    </ul>
+
+
+    <!-- ENLACES -->
+    <!-- href es para poner los enlaces en los que las palabras o lo que este en medio de a  -->
+    <a href="https://www.youtube.com/watch?v=ELSm-G201Ls&t=3363s"> algo </a>
+    esto es para redirijirte a un archivo 
+    <a href="algo.html">sdfsdf</a>
+
+    <!-- imagenes -->
+    y si esta descargada pues pones la direccion dle explorador de archivos
+    <!-- src es el link de la imagne y el alt es para que en caso de que la imagen no carge -->
+    <a href="https://www.youtube.com/watch?v=ELSm-G201Ls&list=PLE8uP447fYpis_9iiaT1GrdOLmg85pAJB"><img src="https://imgs.search.brave.com/XlxrAMe0wrfPElhPPAT9vhlK7NHOVTapS_vFNRlxZJw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJzLmNvbS9p/bWFnZXMvaGQvY3Jp/c3RpYW5vLXJvbmFs/ZG8tY29vbC1wb3J0/dWdhbC1mb290YmFs/bGVyLThrY205aHBj/YzN4Z3RjYjcuanBn" alt="cr7"></a>
+    
+    <!-- esto es para una foto que esta en nuestra computadora y que obligatoriamente tiene que estar en el mismo sitio que el archivo html -->
+    <!-- <img src="upscalemedia-transformed.jpeg"> -->
+    <!-- si esta en otra carpeta se hace lo sigueite -->
+    
+
+    <!-- rutas -->
+    <!-- existen rutas absolutas que simerpe son las mismas  -->
+    <a href="https://www.youtube.com/watch?v=ELSm-G201Ls&t=3363s">ejemplo</a>
+
+    <!-- las rulas relativas son esas rutas a cosas que pueden cambiar de lubar osea puedo cambiar donde esta una imagen -->
+
+    <!-- puede estar mas carpetas adelante o atras de onde esta el arcivo se pone eso asi ../ par que retroseda una carpeta se puede poner tantas veces sea necesario ../../../.../ -->
+    <!-- <img src="../upscalemedia-transformed.jpeg"> -->
+
+    <!-- y si es para alante -->
+    <!-- <img src="nombre de la carpeta/upscalemedia-transformed.jpeg"> -->
+    <!-- asi mismo ponemos la carpeta de adelante la que le sigue y asi  -->
+
+    <!-- combinadicon de rutas  -->
+     <!-- pro ejemplo si ponemos ../imagesn/a;go.png  significa que basicamente que estamos saliendo de donde estamos y depues entramos a otra carpeta -->
+
+
+
+     <!-- FORMULARIOS -->
+    <!-- es todo lo que necesitamos que el usuario haga algo que ponga algo un boton una casilla -->
+    <!-- required es para que sea obligatorio -->
+     <!-- name en text lo que dice es que al servidor donde enviamos eso tenga el nombr usuario o lo que pongamos  -->
+      <!-- <br> salto de linea -->
+       <!-- placeholder pues es lo que aparece y despues desaparece cunado dejas de escribir -->
+     <!-- value es el valor que le mandamos al servidor -->
+     <!-- minlength es para una cnatida minima -->
+    <form>
+      <!-- bueno te puede texto -->
+        <input type="text" value="por defecto o lo que aparace" required name="usuario" placeholder="pone algo es obligatorio" minlength="4"><br>
+        <!-- el sumit envia todo -->
+        <input type="submit" value="aglot">
+        <!-- te pide un color  -->
+        <input type="color">
+        <!-- te pide un email -->
+        <input type="email">
+        <!-- envia todos los campos -->
+        <input type="submit">
+        <!-- tipo contrasena que se ponen los puntos eso -->
+        <input type="password">
+        <!-- si si o no -->
+        <input type="checkbox" name="" id=""><br>
+        <!-- te piede hora-->
+        <input type="datetime" name="" id="">
+        <!-- un botons -->
+        <input type="button" value="">
+        <!-- te pide un archivo -->
+        <input type="file" name="" id="">
+        <!-- algo que esta oculto   si no le llegas ponelo en chatgpt-->
+        <input type="hidden">
+        <!-- fecha te pide -->
+        <input type="date" name="" id="">
+        
+
+    </form>
+
+
+
+  </body>
+</html>
