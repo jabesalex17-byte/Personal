@@ -1,0 +1,24 @@
+//Jabes Estevez 2025-0905
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int latabla;
+    cout << "TABLA DE MULTIPLICAR" << endl;
+    cout << "que tabla quieres ver " ; 
+    cin >> latabla;
+    
+    cout << "la tabla de " << latabla << " es" << endl;
+    cout << latabla <<" * 1 = " << latabla * 1 << endl;
+    cout << latabla <<" * 2 = " << latabla * 2 << endl;
+    cout << latabla <<" * 3 = " << latabla * 3 << endl;
+    cout << latabla <<" * 4 = " << latabla * 4 << endl;
+    cout << latabla <<" * 5 = " << latabla * 5 << endl;
+    cout << latabla <<" * 6 = " << latabla * 6 << endl;
+    cout << latabla <<" * 7 = " << latabla * 7 << endl;
+    cout << latabla <<" * 8 = " << latabla * 8 << endl;
+    cout << latabla <<" * 9 = " << latabla * 9 << endl;
+    cout << latabla <<" * 10 = " << latabla * 10 << endl;
+    
+}
