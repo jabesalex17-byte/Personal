@@ -1,0 +1,14 @@
+C:\Users\jabes\source\repos\Curso de c#  parte  4\Curso de c#  parte  4\bin\Debug\net8.0\Curso de c#  parte  4.exe
+C:\Users\jabes\source\repos\Curso de c#  parte  4\Curso de c#  parte  4\bin\Debug\net8.0\Curso de c#  parte  4.deps.json
+C:\Users\jabes\source\repos\Curso de c#  parte  4\Curso de c#  parte  4\bin\Debug\net8.0\Curso de c#  parte  4.runtimeconfig.json
+C:\Users\jabes\source\repos\Curso de c#  parte  4\Curso de c#  parte  4\bin\Debug\net8.0\Curso de c#  parte  4.dll
+C:\Users\jabes\source\repos\Curso de c#  parte  4\Curso de c#  parte  4\bin\Debug\net8.0\Curso de c#  parte  4.pdb
+C:\Users\jabes\source\repos\Curso de c#  parte  4\Curso de c#  parte  4\obj\Debug\net8.0\Curso de c#  parte  4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jabes\source\repos\Curso de c#  parte  4\Curso de c#  parte  4\obj\Debug\net8.0\Curso de c#  parte  4.AssemblyInfoInputs.cache
+C:\Users\jabes\source\repos\Curso de c#  parte  4\Curso de c#  parte  4\obj\Debug\net8.0\Curso de c#  parte  4.AssemblyInfo.cs
+C:\Users\jabes\source\repos\Curso de c#  parte  4\Curso de c#  parte  4\obj\Debug\net8.0\Curso de c#  parte  4.csproj.CoreCompileInputs.cache
+C:\Users\jabes\source\repos\Curso de c#  parte  4\Curso de c#  parte  4\obj\Debug\net8.0\Curso de c#  parte  4.dll
+C:\Users\jabes\source\repos\Curso de c#  parte  4\Curso de c#  parte  4\obj\Debug\net8.0\refint\Curso de c#  parte  4.dll
+C:\Users\jabes\source\repos\Curso de c#  parte  4\Curso de c#  parte  4\obj\Debug\net8.0\Curso de c#  parte  4.pdb
+C:\Users\jabes\source\repos\Curso de c#  parte  4\Curso de c#  parte  4\obj\Debug\net8.0\Curso de c#  parte  4.genruntimeconfig.cache
+C:\Users\jabes\source\repos\Curso de c#  parte  4\Curso de c#  parte  4\obj\Debug\net8.0\ref\Curso de c#  parte  4.dll
