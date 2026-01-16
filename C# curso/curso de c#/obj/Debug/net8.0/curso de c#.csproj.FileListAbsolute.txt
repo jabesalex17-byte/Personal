@@ -1,0 +1,14 @@
+C:\Users\jabes\source\repos\curso de c#\curso de c#\bin\Debug\net8.0\curso de c#.exe
+C:\Users\jabes\source\repos\curso de c#\curso de c#\bin\Debug\net8.0\curso de c#.deps.json
+C:\Users\jabes\source\repos\curso de c#\curso de c#\bin\Debug\net8.0\curso de c#.runtimeconfig.json
+C:\Users\jabes\source\repos\curso de c#\curso de c#\bin\Debug\net8.0\curso de c#.dll
+C:\Users\jabes\source\repos\curso de c#\curso de c#\bin\Debug\net8.0\curso de c#.pdb
+C:\Users\jabes\source\repos\curso de c#\curso de c#\obj\Debug\net8.0\curso de c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jabes\source\repos\curso de c#\curso de c#\obj\Debug\net8.0\curso de c#.AssemblyInfoInputs.cache
+C:\Users\jabes\source\repos\curso de c#\curso de c#\obj\Debug\net8.0\curso de c#.AssemblyInfo.cs
+C:\Users\jabes\source\repos\curso de c#\curso de c#\obj\Debug\net8.0\curso de c#.csproj.CoreCompileInputs.cache
+C:\Users\jabes\source\repos\curso de c#\curso de c#\obj\Debug\net8.0\curso de c#.dll
+C:\Users\jabes\source\repos\curso de c#\curso de c#\obj\Debug\net8.0\refint\curso de c#.dll
+C:\Users\jabes\source\repos\curso de c#\curso de c#\obj\Debug\net8.0\curso de c#.pdb
+C:\Users\jabes\source\repos\curso de c#\curso de c#\obj\Debug\net8.0\curso de c#.genruntimeconfig.cache
+C:\Users\jabes\source\repos\curso de c#\curso de c#\obj\Debug\net8.0\ref\curso de c#.dll
